@@ -1,19 +1,19 @@
 # Capstone Project Checklist
 
 ## Initial Project Setup (Weeks 1-4)
-- [ ] Read and understand the assessment brief thoroughly
-- [ ] Identify a suitable software development project that:
-  - [ ] Allows design and development of significant software/prototype
-  - [ ] Has defined business objectives
-  - [ ] Targets specific user/customer group
-  - [ ] Addresses business needs
-  - [ ] Incorporates appropriate security measures
+- [x] Read and understand the assessment brief thoroughly
+- [x] Identify a suitable software development project that:
+  - [x] Allows design and development of significant software/prototype
+  - [x] Has defined business objectives
+  - [x] Targets specific user/customer group
+  - [x] Addresses business needs
+  - [x] Incorporates appropriate security measures
 - [ ] Complete the Employer Approval Form
-  - [ ] Write project overview with aims and objectives
+  - [] Write project overview with aims and objectives
   - [ ] Get line manager/data owner signature
   - [ ] Get BPP supervisor signature
 - [ ] Complete the Ethics Form
-  - [ ] Write project summary (300 words)
+  - [x] Write project summary (300 words)
   - [ ] Answer all ethics questions with mitigations
   - [ ] Submit to supervisor for approval
 - [ ] Schedule regular monthly meetings with project supervisor
