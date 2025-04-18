@@ -14,22 +14,22 @@
   - [ ] Get BPP supervisor signature
 - [ ] Complete the Ethics Form
   - [x] Write project summary (300 words)
-  - [ ] Answer all ethics questions with mitigations
+  - [x] Answer all ethics questions with mitigations
   - [ ] Submit to supervisor for approval
 - [ ] Schedule regular monthly meetings with project supervisor
 
 ## Software Requirements & Planning (Weeks 5-8)
-- [ ] Define clear software requirements
-  - [ ] Functional requirements
-  - [ ] Non-functional requirements
-  - [ ] Security requirements
-  - [ ] User requirements
-  - [ ] System requirements
-- [ ] Conduct initial literature review
-  - [ ] Research similar software solutions
-  - [ ] Review relevant technologies and frameworks
-  - [ ] Investigate best practices and design patterns
-  - [ ] Study security considerations
+- [x] Define clear software requirements
+  - [x] Functional requirements
+  - [x] Non-functional requirements
+  - [x] Security requirements
+  - [x] User requirements
+  - [x] System requirements
+- [x] Conduct initial literature review
+  - [x] Research similar software solutions
+  - [x] Review relevant technologies and frameworks
+  - [x] Investigate best practices and design patterns
+  - [x] Study security considerations
 - [ ] Create technical project plan including:
   - [ ] Development methodology (e.g., Agile, Waterfall)
   - [ ] Timeline and milestones
